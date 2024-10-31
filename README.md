@@ -61,3 +61,8 @@ deploy:
         docker ps -aq | xargs docker stop | xargs docker rm &&
         docker run -d -p 5000:5000 $IMAGE_NAME:$IMAGE_TAG"
 ```
+### Reference
+
+[GitLab CI/CD Pipeline Tutorial for Beginners (2024)](https://www.youtube.com/watch?v=z7nLsJvEyMY)
+
+[GitLab CI CD Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=qP8kir2GUgo)
