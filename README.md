@@ -1,5 +1,5 @@
-### GITLAB-NOTES
-#### Gitlab CI/CD
+## GITLAB-NOTES
+### Gitlab CI/CD
 Project Directory
 ```vim
 $cd project_application/
